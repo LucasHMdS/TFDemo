@@ -1,84 +1,94 @@
 {
-	"stringDatabase": [{
-			"key": "Idioma",
-			"language": 0,
-			"translation": [{
-					"language": 1,
-					"value": "Language"
-				},
-				{
-					"language": 2,
-					"value": "言語"
-				}
-			]
-		},
-		{
-			"key": "Bem Vindo!",
-			"language": 0,
-			"translation": [{
-					"language": 1,
-					"value": "Welcome!"
-				},
-				{
-					"language": 2,
-					"value": "ようこそ"
-				}
-			]
-		},
-		{
-			"key": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API",
-			"language": 0,
-			"translation": [{
-					"language": 1,
-					"value": "This project is a simple prototype that uses API responses to translate"
-				},
-				{
-					"language": 2,
-					"value": "このプロジェクトは翻訳するためにAPIレスポンスを使用する簡単なプロトタイプです"
-				}
-			]
-		},
-		{
-			"key": "FIM",
-			"language": 0,
-			"translation": [{
-					"language": 1,
-					"value": "THE END"
-				},
-				{
-					"language": 2,
-					"value": "終わり"
-				}
-			]
-		},
-		{
-			"key": "Você pode enviar sugestões em github.com/LucasHMdS",
-			"language": 0,
-			"translation": [{
-					"language": 1,
-					"value": "You can send suggestions at github.com/LucasHMdS"
-				},
-				{
-					"language": 2,
-					"value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
-				}
-			]
-		}
-	],
-	"languageDatabase": [{
-			"id": 0,
-			"iso639": "pt",
-			"name": "Português"
-		},
-		{
-			"id": 1,
-			"iso639": "en",
-			"name": "English"
-		},
-		{
-			"id": 2,
-			"iso639": "ja",
-			"name": "日本語"
-		}
-	]
+    "stringDatabase": [
+        {
+            "key": "Idioma",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Language"
+                },
+                {
+                    "language": 2,
+                    "value": "言語"
+                }
+            ]
+        },
+        {
+            "key": "Bem Vindo!",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Welcome!"
+                },
+                {
+                    "language": 2,
+                    "value": "ようこそ"
+                }
+            ]
+        },
+        {
+            "key": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "This project is a simple prototype that uses API responses to translate"
+                },
+                {
+                    "language": 2,
+                    "value": "このプロジェクトは翻訳するためにAPIレスポンスを使用する簡単なプロトタイプです"
+                }
+            ]
+        },
+        {
+            "key": "FIM",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "THE END"
+                },
+                {
+                    "language": 2,
+                    "value": "終わり"
+                }
+            ]
+        },
+        {
+            "key": "Você pode enviar sugestões em github.com/LucasHMdS",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "You can send suggestions at github.com/LucasHMdS"
+                },
+                {
+                    "language": 2,
+                    "value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
+                }
+            ]
+        }
+    ],
+    "languageDatabase": [
+        {
+            "id": 0,
+            "iso639": "pt",
+            "name": "Português"
+        },
+        {
+            "id": 1,
+            "iso639": "en",
+            "name": "English"
+        },
+        {
+            "id": 2,
+            "iso639": "ja",
+            "name": "日本語"
+        }
+    ],
+    "profile": {
+        "name": "LucasHMdS"
+    }
 }
