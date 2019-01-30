@@ -72,6 +72,20 @@
                             "value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
                         }
                     ]
+                },
+                {
+                    "key": "Erro!",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "Error!"
+                        },
+                        {
+                            "language": 2,
+                            "value": "エラー"
+                        }
+                    ]
                 }
             ]
         }
@@ -95,7 +109,7 @@
                     "iso639": "ja",
                     "name": "日本語"
                 }
-        ]
+            ]
         }
     ],
     "profile": {
