@@ -29,7 +29,7 @@
             ]
         },
         {
-            "key": "This project is a simple prototype that uses API responses to translate",
+            "key": "This project is a simple prototype that uses API responses to translate information",
             "language": 0,
             "translation": [
                 {
@@ -38,7 +38,7 @@
                 },
                 {
                     "language": 2,
-                    "value": "このプロジェクトは翻訳するためにAPIレスポンスを使用する簡単なプロトタイプです"
+                    "value": "このプロジェクトは、情報を翻訳するためにAPIレスポンスを使用する単純なプロトタイプです"
                 }
             ]
         },
@@ -81,6 +81,62 @@
                 {
                     "language": 2,
                     "value": "翻訳ファイルを読み込めませんでした"
+                }
+            ]
+        },
+        {
+            "key": "Try again",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Tentar novamente"
+                },
+                {
+                    "language": 2,
+                    "value": "再試行する"
+                }
+            ]
+        },
+        {
+            "key": "Reload",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Ok"
+                },
+                {
+                    "language": 2,
+                    "value": "OK"
+                }
+            ]
+        },
+        {
+            "key": "Access",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Acessar"
+                },
+                {
+                    "language": 2,
+                    "value": "アクセス"
+                }
+            ]
+        },
+        {
+            "key": "Cancel",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Cancelar"
+                },
+                {
+                    "language": 2,
+                    "value": "キャンセル"
                 }
             ]
         }
