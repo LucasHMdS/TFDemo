@@ -1,72 +1,77 @@
 {
     "stringDatabase": [
         {
-            "key": "Idioma",
-            "language": 0,
-            "translation": [
+            "id": 0,
+            "strings": [
                 {
-                    "language": 1,
-                    "value": "Language"
+                    "key": "Idioma",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "Language"
+                        },
+                        {
+                            "language": 2,
+                            "value": "言語"
+                        }
+                    ]
                 },
                 {
-                    "language": 2,
-                    "value": "言語"
-                }
-            ]
-        },
-        {
-            "key": "Bem Vindo!",
-            "language": 0,
-            "translation": [
-                {
-                    "language": 1,
-                    "value": "Welcome!"
+                    "key": "Bem Vindo!",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "Welcome!"
+                        },
+                        {
+                            "language": 2,
+                            "value": "ようこそ"
+                        }
+                    ]
                 },
                 {
-                    "language": 2,
-                    "value": "ようこそ"
-                }
-            ]
-        },
-        {
-            "key": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API",
-            "language": 0,
-            "translation": [
-                {
-                    "language": 1,
-                    "value": "This project is a simple prototype that uses API responses to translate"
+                    "key": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "This project is a simple prototype that uses API responses to translate"
+                        },
+                        {
+                            "language": 2,
+                            "value": "このプロジェクトは翻訳するためにAPIレスポンスを使用する簡単なプロトタイプです"
+                        }
+                    ]
                 },
                 {
-                    "language": 2,
-                    "value": "このプロジェクトは翻訳するためにAPIレスポンスを使用する簡単なプロトタイプです"
-                }
-            ]
-        },
-        {
-            "key": "FIM",
-            "language": 0,
-            "translation": [
-                {
-                    "language": 1,
-                    "value": "THE END"
+                    "key": "FIM",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "THE END"
+                        },
+                        {
+                            "language": 2,
+                            "value": "終わり"
+                        }
+                    ]
                 },
                 {
-                    "language": 2,
-                    "value": "終わり"
-                }
-            ]
-        },
-        {
-            "key": "Você pode enviar sugestões em github.com/LucasHMdS",
-            "language": 0,
-            "translation": [
-                {
-                    "language": 1,
-                    "value": "You can send suggestions at github.com/LucasHMdS"
-                },
-                {
-                    "language": 2,
-                    "value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
+                    "key": "Você pode enviar sugestões em github.com/LucasHMdS",
+                    "language": 0,
+                    "translation": [
+                        {
+                            "language": 1,
+                            "value": "You can send suggestions at github.com/LucasHMdS"
+                        },
+                        {
+                            "language": 2,
+                            "value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
+                        }
+                    ]
                 }
             ]
         }
@@ -74,18 +79,23 @@
     "languageDatabase": [
         {
             "id": 0,
-            "iso639": "pt",
-            "name": "Português"
-        },
-        {
-            "id": 1,
-            "iso639": "en",
-            "name": "English"
-        },
-        {
-            "id": 2,
-            "iso639": "ja",
-            "name": "日本語"
+            "languages": [
+                {
+                    "id": 0,
+                    "iso639": "pt",
+                    "name": "Português"
+                },
+                {
+                    "id": 1,
+                    "iso639": "en",
+                    "name": "English"
+                },
+                {
+                    "id": 2,
+                    "iso639": "ja",
+                    "name": "日本語"
+                }
+        ]
         }
     ],
     "profile": {
