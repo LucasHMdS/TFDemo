@@ -1,12 +1,12 @@
 {
     "stringDatabase": [
         {
-            "key": "Idioma",
+            "key": "Language",
             "language": 0,
             "translation": [
                 {
                     "language": 1,
-                    "value": "Language"
+                    "value": "Idioma"
                 },
                 {
                     "language": 2,
@@ -15,12 +15,12 @@
             ]
         },
         {
-            "key": "Bem Vindo!",
+            "key": "Welcome!",
             "language": 0,
             "translation": [
                 {
                     "language": 1,
-                    "value": "Welcome!"
+                    "value": "Bem Vindo!"
                 },
                 {
                     "language": 2,
@@ -29,12 +29,12 @@
             ]
         },
         {
-            "key": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API",
+            "key": "This project is a simple prototype that uses API responses to translate",
             "language": 0,
             "translation": [
                 {
                     "language": 1,
-                    "value": "This project is a simple prototype that uses API responses to translate"
+                    "value": "Esse projeto é um protótipo simples de traduções a partir de respostas de uma API"
                 },
                 {
                     "language": 2,
@@ -43,12 +43,12 @@
             ]
         },
         {
-            "key": "FIM",
+            "key": "THE END",
             "language": 0,
             "translation": [
                 {
                     "language": 1,
-                    "value": "THE END"
+                    "value": "FIM"
                 },
                 {
                     "language": 2,
@@ -57,16 +57,30 @@
             ]
         },
         {
-            "key": "Você pode enviar sugestões em github.com/LucasHMdS",
+            "key": "You can send suggestions at github.com/LucasHMdS",
             "language": 0,
             "translation": [
                 {
                     "language": 1,
-                    "value": "You can send suggestions at github.com/LucasHMdS"
+                    "value": "Você pode enviar sugestões em github.com/LucasHMdS"
                 },
                 {
                     "language": 2,
                     "value": "あなたはgithub.com/LucasHMdSで提案を送ることができます"
+                }
+            ]
+        },
+        {
+            "key": "Failed to load translation files!",
+            "language": 0,
+            "translation": [
+                {
+                    "language": 1,
+                    "value": "Falha ao carregar arquivos de tradução!"
+                },
+                {
+                    "language": 2,
+                    "value": "翻訳ファイルを読み込めませんでした"
                 }
             ]
         }
@@ -74,13 +88,13 @@
     "languageDatabase": [
         {
             "id": 0,
-            "iso639": "pt",
-            "name": "Português"
+            "iso639": "en",
+            "name": "English"
         },
         {
             "id": 1,
-            "iso639": "en",
-            "name": "English"
+            "iso639": "pt",
+            "name": "Português"
         },
         {
             "id": 2,
